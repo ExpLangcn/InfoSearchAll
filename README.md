@@ -1,5 +1,9 @@
 # 网络测绘平台综合搜索引擎 - InfoSearchAll
 
+- 我的后续安全项目将会发布在：**[Security-Magic-Weapon 组织](https://github.com/Security-Magic-Weapon) 点击查看！**
+- Telegram频道：**[安全技术资讯聚合](https://t.me/secgzh) 实时更新国内外700+个黑客安全技术论坛/社区/博客/公众号的技术文章.**
+- Telegram频道：**[安全资源整合互推](https://t.me/secyq) 一个用于收录Telegram上 安全行业 黑客技术 并且还会自动推送最新的CVE漏洞、CNVD漏洞、最新的红队工具等。**
+
 ## 程序介绍
 
 为了方便安全从业人员在使用网络测绘平台进行信息搜集时的效率，本程序集合了多个网络测绘平台，可以快速在多个网络测绘平台搜索信息并且合并展示及导出。
